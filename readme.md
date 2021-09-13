@@ -18,4 +18,4 @@ Este projeto objetiva o desenvolvimento de uma aplicação WEB para controle de 
 ### Backend
 1. Javascript
 1. NodeJS
-1. MySQL
+1. MySQL# MonkChat
